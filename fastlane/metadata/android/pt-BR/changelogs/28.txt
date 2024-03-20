@@ -1,0 +1,12 @@
+Novo:
+- Sistema de cálculo interno
+- Fatores decimais
+
+Corrigido:
+- Rolo histórico (@MahmoudRH)
+- Exatidão do resultado
+- Backspace com separadores de agrupamento
+- Modo de paisagem para tablet de 10 polegadas
+- Crash ao tocar no resultado da história
+- Alguns problemas de expressão de formação
+- Várias outras correções
